@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+#wrapper {
+    background-color: lightblue;
+    width: 75%;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+fieldset {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+textarea {
+    resize: none;
+    overflow-y: scroll;
+}
+
+h1 {
+    text-align: center;
+    font-family: Garamond, serif;
+    font-size: 3em;
+}
+
+h3 {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
